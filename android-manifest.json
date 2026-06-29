@@ -1,8 +1,8 @@
 {
   "android": {
-    "versionCode": 2,
-    "versionName": "1.1.0",
-    "apkUrl": "https://github.com/Abdullah-Basim/life-os-releases/releases/download/v1.1.0/life-os-1.1.0.apk",
-    "notes": "One-time login + OTA self-update + coach sync."
+    "versionCode": 3,
+    "versionName": "1.2.0",
+    "apkUrl": "https://github.com/Abdullah-Basim/life-os-releases/releases/download/v1.2.0/life-os-1.2.0.apk",
+    "notes": "July routine: weekday-aware coach + theme & targets."
   }
 }

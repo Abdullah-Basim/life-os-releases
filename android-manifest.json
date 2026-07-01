@@ -1,8 +1,1 @@
-{
-  "android": {
-    "versionCode": 5,
-    "versionName": "1.3.1",
-    "apkUrl": "https://github.com/Abdullah-Basim/life-os-releases/releases/download/v1.3.1/life-os-1.3.1.apk",
-    "notes": "Fixes update-check, app names/icons, and phone usage cloud sync."
-  }
-}
+{ "android": { "versionCode": 6, "versionName": "1.4.0", "apkUrl": "https://github.com/Abdullah-Basim/life-os-releases/releases/download/v1.4.0/life-os-1.4.0.apk", "notes": "Real-time sync + project links + family finance card." } }

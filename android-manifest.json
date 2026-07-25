@@ -1,1 +1,1 @@
-{ "android": { "versionCode": 7, "versionName": "1.5.0", "apkUrl": "https://github.com/Abdullah-Basim/life-os-releases/releases/download/v1.5.0/life-os-1.5.0.apk", "notes": "AI screen + Mac Access (control your Mac from your phone)." } }
+{ "android": { "versionCode": 8, "versionName": "1.6.0", "apkUrl": "https://github.com/Abdullah-Basim/life-os-releases/releases/download/v1.6.0/life-os-1.6.0.apk", "notes": "Goals-first revamp: Home + Goals checklists + always-on Wazir AI. Paste your wazir key once in Settings > Wazir Assistant." } }
